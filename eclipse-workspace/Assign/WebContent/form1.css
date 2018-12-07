@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+.main
+{
+	width:900px;height:auto;margin-left:200px;
+}
+.header
+{
+	width:900px;height:auto;background-color:white;padding: 10px 20px 10px 10px;
+}
+.logo
+{
+	width:15%;height:auto;float:left;
+}
+.panel
+{
+	color:red;width:auto;margin-top:50px;margin:50px 10px 10px 600px;
+}
+
+.icon
+{
+	font-size:30px;width:auto;height:auto;margin:10px 10px 30px 700px ;
+}
+.banner
+{
+	width:900px;height:250px;padding-right:10px;
+}
+.block
+{
+
+	display:inline-block;width:68%;height:330px;color:red;background-color:white;
+}
+.m1
+{
+	font-size:22px;color:red;
+}
+.intro
+{
+
+	display:inline-block;font-size:14px;color:green;padding:10px;
+}
+.block1
+{
+	display:inline-block;width:29%;height:330px;float:right;
+}
+.pic
+{
+	width:250px;height:60px;border-radius:10px;opacity:0.5;border-style: solid; border-width:5px;border-color: red;
+}
+.footer
+{
+	width:900px;height:50px;padding-top:20px;background-color:yellow;alignment:center;
+}
